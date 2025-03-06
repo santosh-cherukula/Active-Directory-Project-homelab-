@@ -20,6 +20,5 @@ This repository contains the configuration files and screenshots for my Active D
 - **config/**: Contains configuration files.
   - `input.conf` - Splunk input configuration.
 - **screenshots/**: Contains images of the project setup and outputs.
-  - Replace the placeholder images with your actual screenshots.
 
 Feel free to explore the repo to see how I set up and documented this project.
